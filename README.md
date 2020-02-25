@@ -1,0 +1,2 @@
+# Bulanik_Mantik_Kutuphanesi
+fonksiyonlarin ciktilari eklenecek
